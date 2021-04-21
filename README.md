@@ -8,3 +8,6 @@ time.
 3. First comes, first served basis.
 4. Only available venues can reserve.
 5. The venues are operating from 8am until 11pm.
+6. Group Member:
+7. Hafiz Pangteh 1528007
+8. Nada Halabee 1622086
