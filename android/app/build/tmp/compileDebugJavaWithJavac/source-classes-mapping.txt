@@ -1,0 +1,14 @@
+com/venuer/MainApplication.java
+ com.venuer.MainApplication
+ com.venuer.MainApplication$1
+com/venuer/MainActivity.java
+ com.venuer.MainActivity
+com/venuer/ReactNativeFlipper.java
+ com.venuer.ReactNativeFlipper
+ com.venuer.ReactNativeFlipper$1
+ com.venuer.ReactNativeFlipper$2
+ com.venuer.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/venuer/BuildConfig.java
+ com.venuer.BuildConfig
